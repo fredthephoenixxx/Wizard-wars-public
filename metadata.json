@@ -1,0 +1,6 @@
+{
+  "name": "Wizard Wars",
+  "description": "A landscape-oriented CCG auto-battler with a chiseled-stone dark fantasy theme, tactical active combat lanes, and card spawning sandbox inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
